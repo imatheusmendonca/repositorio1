@@ -1,0 +1,11 @@
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.exe.config
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.exe
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.pdb
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.AssemblyReference.cache
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.Form1.resources
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.Properties.Resources.resources
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.GenerateResource.cache
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.exe
+C:\Users\matheus.mtsouza3\Documents\ProjetosMatheus\NovoProjeto\NovoProjeto\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.pdb
